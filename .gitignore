@@ -1,0 +1,9 @@
+*pyc
+*swp
+*swo
+*~
+*.db
+*.log
+.idea
+.vscode
+cesi.conf
